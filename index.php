@@ -9,5 +9,6 @@
     <?php
         echo "hello world";
     ?>
+    <h1>testing</h1>
 </body>
 </html>
